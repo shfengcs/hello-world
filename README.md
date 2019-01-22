@@ -1,3 +1,4 @@
 # hello-world
 just another repository
-testing
+
+computer science is so fanscinating when compared to the chemical engineering i am reading now.
